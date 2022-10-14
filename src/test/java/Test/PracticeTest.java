@@ -8,8 +8,8 @@ public class PracticeTest extends BaseTest {
 
 
     //string for happy flow
-    String validFullName = "SaraCiric";
-    String validEmail = "saraciric1994@gmail.com";
+    String validFullName = "Vladislav Velickovic";
+    String validEmail = "v.v@gmail.com";
     String validCurrentAddress = "Cara Lazara 121a";
     String validPermanentAddress = "Janosikova 74";
 
